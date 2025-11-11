@@ -122,9 +122,12 @@ After training is complete, use the ce_fenduan.py to evaluate model performance.
 Please ensure that the address of the trained model is placed in sets.test_path.
 
 
+5.Other Nets
+
+In the model selection stage, we also tried several other architectures and slice settings, including ResNet18, ResNet50, 20-slice, and 40-slice versions.
+You can find these additional models on Hugging Face: https://huggingface.co/t-zyyy/Other_Nets/tree/main
 
 
-
-5. License
+6. License
 
 This project is licensed under the MIT License.
