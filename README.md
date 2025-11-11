@@ -124,7 +124,7 @@ Please ensure that the address of the trained model is placed in sets.test_path.
 
 5. Other Nets
 
-In the model selection stage, we also tried several other architectures and slice settings, including ResNet18, ResNet50, 20-slice, and 40-slice versions.
+In the model selection stage, we also tried several other architectures and slice settings, including ResNet10, ResNet18, ResNet50, ResNet101, 20-slice and 40-slice versions.
 You can find these additional models on Hugging Face: https://huggingface.co/t-zyyy/Other_Nets/tree/main
 
 
